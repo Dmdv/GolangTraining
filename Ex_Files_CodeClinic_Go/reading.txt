@@ -1,0 +1,25 @@
+Todd McLeod
+
+https://github.com/golang/go/wiki/Books
+https://gobyexample.com
+golang.org
+godoc.org
+
+Books:
+
+An introduction to Programming in Go by Caleb Doxsey
+Introducing Go by Caleb Doxsey
+The way to Go by Ivo BalBaert
+Go In Action by William Kennedy
+The Go programming language by Alan Donovan and Brian Kernigan
+
+github.com:
+
+GoesToEleven
+https://github.com/golang-book/bootcamp-examples
+https://github.com/avelino/awesome-go
+
+Lectures:
+
+https://www.youtube.com/playlist?list=PLSak_q1UXfPp2VwUQ4ZdUVJdMO6pfi5v_
+https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S
